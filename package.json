@@ -1,0 +1,23 @@
+{
+  "name": "example_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timscheuermann/example_electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timscheuermann/example_electron/issues"
+  },
+  "homepage": "https://github.com/timscheuermann/example_electron#readme",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}
